@@ -4,3 +4,9 @@ shortLabel CTRLvsSEVERE CpGs
 longLabel CTRLvsSEVERE CpGs of PCDH family
 type bigWig
 
+track CTRLvsSEVERE_DMRs
+bigDataUrl DMR.CTRLvsSEVERE.PCDH.maxdiff.bw
+shortLabel CTRLvsSEVERE DMRs
+longLabel CTRLvsSEVERE DMRs of PCDH family
+type bigWig
+
