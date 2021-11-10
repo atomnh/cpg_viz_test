@@ -1,0 +1,5 @@
+hub test
+shortLabel test on DMR
+longLabel test on gene family of DMR
+genomesFile genomes.txt
+email lihua.huang@link.cuhk.edu.hk

@@ -1,0 +1,30 @@
+track CTRLvsMILD_CpGs
+bigDataUrl cpg.CTRLvsMILD.bw
+shortLabel CTRLvsMILD CpGs
+longLabel CTRLvsMILD CpGs of PCDH family
+type bigWig
+
+track CTRLvsSEVERE_CpGs
+bigDataUrl cpg.CTRLvsSEVERE.bw
+shortLabel CTRLvsSEVERE CpGs
+longLabel CTRLvsSEVERE CpGs of PCDH family
+type bigWig
+
+track CTRLvsSYMP_CpGs
+bigDataUrl cpg.CTRLvsSYMP.bw
+shortLabel CTRLvsSYMP CpGs
+longLabel CTRLvsSYMP CpGs of PCDH family
+type bigWig
+
+track HETCTRLvsMILD_CpGs
+bigDataUrl cpg.HETCTRLvsMILD.bw
+shortLabel HETCTRLvsMILD CpGs
+longLabel HETCTRLvsMILD CpGs of PCDH family
+type bigWig
+
+track HETCTRLvsSEVERE_CpGs
+bigDataUrl cpg.HETCTRLvsSEVERE.bw
+shortLabel HETCTRLvsSEVERE CpGs
+longLabel HETCTRLvsSEVERE CpGs of PCDH family
+type bigWig
+
