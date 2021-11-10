@@ -1,5 +1,5 @@
-hub test
-shortLabel test on DMR
+hub cpgTest
+shortLabel test on cpg
 longLabel test on gene family of DMR
 genomesFile genomes.txt
 email lihua.huang@link.cuhk.edu.hk
